@@ -297,8 +297,7 @@ All traps subscribe to the `DeathrunManager.OnRoundReset` event and reset themse
 
 ## ⚠️ Known Issues / Incomplete Work
 
-1. **Character selection**: Started in conversation a2f9a7b4 but completion status is unclear
+1. **Character selection**: Started but completion status is unclear
 2. **SpeedRun EndSpeedRunMode**: Action when map time expires is still empty (leaderboard, etc.)
 3. **Battle Royale mode**: Not yet developed
-4. **Surf mechanics**: Worked on in conversation cd3b43c1, appears to be implemented in current code
-5. **Trap_GlassPath**: `OnActivateServer/OnActivateClient` are empty — RpcBreakGlasses is not being called (may not be integrated with button triggering)
+4. **Surf mechanics**: Working on, appears to be implemented in current code
