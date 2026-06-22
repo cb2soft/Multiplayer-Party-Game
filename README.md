@@ -1,6 +1,9 @@
 # Multiplayer-Party-Game
 The open-source version of this project will be released here 6 months after its Steam launch.
 
+## Update
+Playtest video from Deathrun game mode: https://www.youtube.com/watch?v=m6DaPlQOnzM
+
 
 # 🎮 Unity Multiplayer Game
 
