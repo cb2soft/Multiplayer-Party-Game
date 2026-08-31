@@ -16,6 +16,8 @@ Playtest video from Deathrun game mode: https://www.youtube.com/watch?v=m6DaPlQO
 
 An online multiplayer FPS game developed with Unity + **Mirror Networking** + **Steamworks.NET** (FizzySteamworks transport), supporting multiple game modes.
 
+Devlog videos: https://www.youtube.com/watch?v=VipbIQdGEzM&list=PLf6y277d--h0
+
 | Feature | Details |
 |---|---|
 | **Networking** | Mirror (NetworkBehaviour, SyncVar, Command, ClientRpc) |
